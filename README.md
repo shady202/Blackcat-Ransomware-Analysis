@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:00d9a5&amp;height=200&amp;section=header&amp;text=BlackCat%20%2F%20ALPHV%20Analysis&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Suffolk%20County%20Ransomware%20Case%20Study%20%7C%20Attack%20Simulation%20%7C%20Detection%20%26%20IR&amp;descSize=16&amp;descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:00d9a5&amp;height=200&amp;section=header&amp;text=BlackCat%20%2F%20ALPHV%20Analysis&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Suffolk%20County%20Ransomware%20Case%20Study%20%7C%20Attack%20Simulation%20%7C%20Detection%20and%20IR&amp;descSize=16&amp;descAlignY=58" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00D9A5&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Threat+actor+profiling+%26+MITRE+ATT%26CK+mapping;Safe+Log4Shell-style+attack+simulation;Sysmon+%2B+Event+4688+%2B+Chainsaw+detection;Incident+response+%26+prevention+playbooks+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00D9A5&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Threat+actor+profiling+and+MITRE+ATT+CK+mapping;Safe+Log4Shell-style+attack+simulation;Sysmon+%2B+Event+4688+%2B+Chainsaw+detection;Incident+response+and+prevention+playbooks+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 ![Module](https://img.shields.io/badge/Module-Advanced%20Cyber%20Security-0f2027?style=flat-square&amp;logoColor=00d9a5)
